@@ -6,6 +6,9 @@ They can further contact them with the help of information provided in their min
 Tech stack used -
 
 1.HTML
+
 2.CSS
+
 3.JavaScript
+
 4.Firebase
