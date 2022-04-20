@@ -222,5 +222,17 @@ p{
     line-height: 30px;
   }
   
+  @media(max-width: 978px){
+ 
+    #mtl{
+     text-align: center;
+    }
 
+    .mtl-heading{
+        font-size: 1.5rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        margin-bottom: 1rem;
+}
+}
 
