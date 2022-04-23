@@ -43,10 +43,12 @@ const tr = `
     <p class="card-text">${doc.data().about}</p>
   </div>
   <ul class="list-group list-group-flush">
-    <li class="list-group-item item1"><b>LinkedIn:</b> ${doc.data().linkedin}</li>
-    <li class="list-group-item item2"><b>Email:</b> ${doc.data().email}</li>
-    <li class="list-group-item itme3"><b>Contact No:</b> ${doc.data().phone}</li>
-    <li class="list-group-item itme4"><b>GitHub ID:</b> ${doc.data().github}</li>
+    <li class="list-group-item item2"><b>College:</b> ${doc.data().college}</li>
+    <li class="list-group-item item3"><b>Year Of Study:</b> ${doc.data().yos}</li>
+    <li class="list-group-item item4"><b>LinkedIn:</b> ${doc.data().linkedin}</li>
+    <li class="list-group-item itme6"><b>GitHub ID:</b> ${doc.data().github}</li>
+    <li class="list-group-item item7"><b>Email:</b> ${doc.data().email}</li>
+    <li class="list-group-item itme8"><b>Contact No:</b> ${doc.data().phone}</li>
   </ul>
 
 
