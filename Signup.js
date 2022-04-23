@@ -27,7 +27,8 @@ addModalForm.addEventListener('submit', e => {
         github: addModalForm.inputgithub.value,
         linkedin: addModalForm.inputlinkedIn.value,
         phone: addModalForm.inputPhone.value,
-
+        college: addModalForm.inputcollege.value,
+        yos: addModalForm.inputstudy.value,
     });
 
 
