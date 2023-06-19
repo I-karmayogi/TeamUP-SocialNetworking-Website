@@ -16,28 +16,6 @@ TeamUP offers the following key features:
 
 - **Messaging and Notifications**: TeamUP includes a messaging system that allows users to communicate with their team members, event participants, and other users. Users receive notifications about team updates, event invitations, and messages.
 
-## Installation and Setup
-To set up and use the TeamUP social networking website, follow these steps:
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/teamup-social-networking.git
-   ```
-
-2. Install the required dependencies. Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (Node Package Manager) installed. Navigate to the project directory and run the following command:
-   ```bash
-   npm install
-   ```
-
-3. Set up the necessary configurations. Modify the configuration files to include any required API keys or specific settings for databases or external services.
-
-4. Start the application:
-   ```bash
-   npm start
-   ```
-
-5. Access the TeamUP social networking website by visiting `http://localhost:3000` in your web browser.
-
 ## Usage
 Once the TeamUP social networking website is set up and running, users can follow these steps to leverage its features:
 
